@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>ARKNIGHT</title>
+  <link rel="stylesheet" href="main.css">
+  <link href="f1.webp" rel="shortcut icon" type="image/x-icon">
+</head>
+
+<body bgcolor="black">
+  <div style="text-align: right;"><audio src="[audio]memory.m4a" controls loop>Memory</audio></div>
+  <div style="text-align: center; padding: 10px;"><img src="logoimage.png" alt="Arknight" width="284px" height="133px"></div>
+  <div class="alert-box" id="alert">
+    <span id="alert-text">Alert</span>
+    <button id="close">X</button>
+  </div>
+  <button class="but" onclick="on('block', '아이디가 틀립니다')">ID오류</button>
+  <button class="but" onclick="on('block', '패스워드가 틀립니다')">PW오류</button>
+
+  <script>
+    function on(파라미터, 문자){
+      document.getElementById('alert').style.display = 파라미터;
+      document.getElementById('alert-text').innerHTML = 문자;
+    }
+
+    document.getElementById('close').addEventListener('click', function(){on('none','')})
+  </script>
+</body>
+
+</html>

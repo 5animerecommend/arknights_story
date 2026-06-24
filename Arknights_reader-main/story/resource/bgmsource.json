@@ -1,0 +1,1283 @@
+[{
+      "a001" : [
+    
+          "m_dia_farce_intro.mp3",
+      
+          "m_dia_farce_loop.mp3",
+      
+          "m_dia_path_intro.mp3",
+      
+          "m_dia_path_loop.mp3"
+      ]
+    },
+    {
+      "act11d0d0" : [
+    
+          "m_bat_mudrock_intro.mp3",
+      
+          "m_bat_mudrock_loop.mp3",
+      
+          "m_bat_rebel_intro.mp3",
+      
+          "m_bat_rebel_loop.mp3",
+      
+          "m_bat_wallemdtown_intro.mp3",
+      
+          "m_bat_wallemdtown_loop.mp3",
+      
+          "m_sys_friend_intro.mp3",
+      
+          "m_sys_friend_loop.mp3"
+      ]
+    },
+    {
+      "act12d0d0" : [
+    
+          "m_bat_ausband_intro.mp3",
+      
+          "m_bat_ausband_loop.mp3",
+      
+          "m_bat_freezeassshou_intro.mp3",
+      
+          "m_bat_freezeassshou_loop.mp3",
+      
+          "m_bat_imfxingback_intro.mp3",
+      
+          "m_bat_imfxingback_loop.mp3",
+      
+          "m_bat_ironguy_intro.mp3",
+      
+          "m_bat_ironguy_loop.mp3",
+      
+          "m_sys_dontmaketrouble_intro.mp3",
+      
+          "m_sys_dontmaketrouble_loop.mp3"
+      ]
+    },
+    {
+      "act12d6d0" : [
+    
+          "m_sys_rglk0suspective_intro.mp3",
+      
+          "m_sys_rglk0suspective_loop.mp3"
+      ]
+    },
+    {
+      "act13d0d0" : [
+    
+          "m_sys_midautumn20.mp3"
+      ]
+    },
+    {
+      "act13d2d0" : [
+    
+          "m_sys_act01_intro.mp3",
+      
+          "m_sys_act01_loop.mp3"
+      ]
+    },
+    {
+      "act13d5d0" : [
+    
+          "m_bat_corrosion_intro.mp3",
+      
+          "m_bat_corrosion_loop.mp3",
+      
+          "m_bat_putrid_intro.mp3",
+      
+          "m_bat_putrid_loop.mp3",
+      
+          "m_bat_warchaos_intro.mp3",
+      
+          "m_bat_warchaos_loop.mp3"
+      ]
+    },
+    {
+      "act13side" : [
+    
+          "m_bat_kazimierz2_1_intro.mp3",
+      
+          "m_bat_kazimierz2_1_loop.mp3"
+      ]
+    },
+    {
+      "act14d0d0" : [
+    
+          "m_avg_amiyaevolution_animationintro.mp3",
+        
+          "m_avg_amiyaevolution_autoloop.mp3",
+        
+          "m_avg_chenandwei_intro.mp3",
+      
+          "m_avg_chenandwei_loop.mp3",
+      
+          "m_avg_doubledragons_intro.mp3",
+        
+          "m_avg_doubledragons_loop.mp3",
+        
+          "m_avg_towerfierce_intro.mp3",
+        
+          "m_avg_towerfierce_loop.mp3",
+      
+          "m_bat_industv2_intro.mp3",
+      
+          "m_bat_industv2_loop.mp3",
+      
+          "m_bat_lostmemory_intro.mp3",
+      
+          "m_bat_lostmemory_loop.mp3",
+      
+          "m_bat_rosmontisteam_intro.mp3",
+        
+          "m_bat_rosmontisteam_loop.mp3"
+      ]
+    },
+    {
+      "act14mini" : [
+    
+          "m_sys_act14mini_loop.mp3"
+      ]
+    },
+    {
+      "act14side" : [
+    
+          "m_bat_blkswb_intro.mp3",
+      
+          "m_bat_blkswb_loop.mp3",
+      
+          "m_bat_kjerag_h_intro.mp3",
+      
+          "m_bat_kjerag_h_loop.mp3",
+      
+          "m_bat_kjerag_n_intro.mp3",
+      
+          "m_bat_kjerag_n_loop.mp3",
+      
+          "m_sys_kjerag_loop.mp3"
+      ]
+    },
+    {
+      "act15d0d0" : [
+    
+          "m_avg_jealous_intro.mp3",
+      
+          "m_avg_jealous_loop.mp3",
+      
+          "m_avg_ponder_intro.mp3",
+      
+          "m_avg_ponder_loop.mp3",
+      
+          "m_avg_suspenseful_intro.mp3",
+      
+          "m_avg_suspenseful_loop.mp3",
+      
+          "m_avg_tense_intro.mp3",
+      
+          "m_avg_tense_loop.mp3",
+      
+          "m_bat_imprisonment_intro.mp3",
+        
+          "m_bat_imprisonment_loop.mp3",
+        
+          "m_bat_jakiller_intro.mp3",
+      
+          "m_bat_jakiller_loop.mp3",
+      
+          "m_bat_prisonbreak_intro.mp3",
+      
+          "m_bat_prisonbreak_loop.mp3",
+      
+          "m_sys_act15_intro.mp3",
+      
+          "m_sys_act15_loop.mp3"
+      ]
+    },
+    {
+      "act15main" : [
+    
+          "m_bat1_act15main_intro.mp3",
+      
+          "m_bat1_act15main_loop.mp3",
+      
+          "m_bat2_act15main_intro.mp3",
+      
+          "m_bat2_act15main_loop.mp3",
+        
+          "m_bat_mptxs_intro.mp3",
+      
+          "m_bat_mptxs_loop.mp3",
+      
+          "m_bat_prtsstage1_intro.mp3",
+      
+          "m_bat_prtsstage1_loop.mp3",
+      
+          "m_bat_prtsstage2_intro.mp3",
+        
+          "m_bat_prtsstage2_loop.mp3",
+        
+          "m_sys_act15main_loop.mp3"
+      ]
+    },
+    {
+      "act15mini" : [
+    
+          "m_avg_act15mini_1_intro.mp3",
+        
+          "m_avg_act15mini_1_loop.mp3"
+      ]
+    },
+    {
+      "act15side" : [
+    
+          "m_bat_bitw1_intro.mp3",
+      
+          "m_bat_bitw1_loop.mp3",
+      
+          "m_bat_bitw2_intro.mp3",
+      
+          "m_bat_bitw2_loop.mp3",
+      
+          "m_bat_sfsui_intro.mp3",
+      
+          "m_bat_sfsui_loop.mp3",
+      
+          "m_sys_bitw_loop.mp3"
+      ]
+    },
+    {
+      "act16d5d0" : [
+    
+          "m_bat_awakening_intro.mp3",
+      
+          "m_bat_awakening_loop.mp3",
+      
+          "m_bat_duskdragon_intro.mp3",
+      
+          "m_bat_duskdragon_loop.mp3",
+        
+          "m_bat_taoyuan_intro.mp3",
+        
+          "m_bat_taoyuan_loop.mp3",
+      
+          "m_sys_act16_loop.mp3"
+      ]
+    },
+    {
+      "act16side" : [
+    
+          "m_bat_act16side_01_intro.mp3",
+        
+          "m_bat_act16side_01_loop.mp3",
+        
+          "m_bat_martyr_intro.mp3",
+      
+          "m_bat_martyr_loop.mp3",
+      
+          "m_sys_act16side_intro.mp3",
+      
+          "m_sys_act16side_loop.mp3"
+      ]
+    },
+    {
+      "act17d0d0" : [
+    
+          "m_bat_essenceofevolution_intro.mp3",
+        
+          "m_bat_essenceofevolution_loop.mp3",
+        
+          "m_bat_mutate_intro.mp3",
+        
+          "m_bat_mutate_loop.mp3",
+      
+          "m_bat_seize_intro.mp3",
+      
+          "m_bat_seize_loop.mp3",
+      
+          "m_sys_act17_intro.mp3",
+        
+          "m_sys_act17_loop.mp3"
+      ]
+    },
+    {
+      "act17side" : [
+    
+          "m_bat_act17side_01_intro.mp3",
+        
+          "m_bat_act17side_01_loop.mp3",
+      
+          "m_bat_act17side_02_intro.mp3",
+        
+          "m_bat_act17side_02_loop.mp3",
+        
+          "m_bat_act17side_03_intro.mp3",
+        
+          "m_bat_act17side_03_loop.mp3",
+        
+          "m_bat_dsdevr_intro.mp3",
+      
+          "m_bat_dsdevr_loop.mp3",
+      
+          "m_sys_act17side_loop.mp3"
+      ]
+    },
+    {
+      "act18d0d0" : [
+    
+          "m_bat_walkinthedust_intro.mp3",
+        
+          "m_bat_walkinthedust_loop.mp3",
+        
+          "m_sys_act18d0d0_intro.mp3",
+        
+          "m_sys_act18d0d0_loop.mp3"
+      ]
+    },
+    {
+      "act18d3d0" : [
+    
+          "m_bat_abyssalhunters_intro.mp3",
+        
+          "m_bat_abyssalhunters_loop.mp3",
+        
+          "m_bat_church_intro.mp3",
+        
+          "m_bat_church_loop.mp3",
+        
+          "m_sys_act18d3d0_intro.mp3",
+        
+          "m_sys_act18d3d0_loop.mp3"
+      ]
+    },
+    {
+      "act18mini" : [
+    
+          "m_sys_act18mini_loop.mp3"
+      ]
+    },
+    {
+      "act18side" : [
+    
+          "m_bat_white_01_intro.mp3",
+      
+          "m_bat_white_01_loop.mp3",
+      
+          "m_bat_white_02_intro.mp3",
+      
+          "m_bat_white_02_loop.mp3",
+      
+          "m_bat_white_trans.mp3",
+      
+          "m_sys_leithanien_intro.mp3",
+      
+          "m_sys_leithanien_loop.mp3"
+      ]
+    },
+    {
+      "act19side" : [
+    
+          "m_bat_act19side_01_intro.mp3",
+        
+          "m_bat_act19side_01_loop.mp3",
+        
+          "m_bat_bbrain_intro.mp3",
+      
+          "m_bat_bbrain_loop.mp3",
+      
+          "m_sys_act19side_intro.mp3",
+      
+          "m_sys_act19side_loop.mp3"
+      ]
+    },
+    {
+      "act1mainss" : [
+    
+          "m_act1mainss_bat1_intro.mp3",
+        
+          "m_act1mainss_bat1_loop.mp3",
+      
+          "m_act1mainss_bat2_intro.mp3",
+        
+          "m_act1mainss_bat2_loop.mp3",
+      
+          "m_bat_deadspirit_intro.mp3",
+      
+          "m_bat_deadspirit_loop.mp3",
+      
+          "m_bat_reawaken_intro.mp3",
+      
+          "m_bat_reawaken_loop.mp3",
+      
+          "m_bat_sarkazkings_loop.mp3",
+        
+          "m_bat_theresa_loop.mp3",
+      
+          "m_sys_act1mainss_intro.mp3",
+        
+          "m_sys_act1mainss_loop.mp3"
+      ]
+    },
+    {
+      "act21side" : [
+    
+          "m_bat_act21side_01_intro.mp3",
+        
+          "m_bat_act21side_01_loop.mp3",
+        
+          "m_sys_act21side_intro.mp3",
+        
+          "m_sys_act21side_loop.mp3"
+      ]
+    },
+    {
+      "act22d0d0" : [
+    
+          "m_bat_ghosthunter01_intro.mp3",
+        
+          "m_bat_ghosthunter01_loop.mp3",
+        
+          "m_bat_ghosthunter02_intro.mp3",
+        
+          "m_bat_ghosthunter02_loop.mp3"
+      ]
+    },
+    {
+      "act22side" : [
+    
+          "m_avg_act22side_loop.mp3",
+      
+          "m_bat_act22side_01_intro.mp3",
+        
+          "m_bat_act22side_01_loop.mp3",
+        
+          "m_bat_ncrmcr_intro.mp3",
+      
+          "m_bat_ncrmcr_loop.mp3",
+      
+          "m_sys_act22side_intro.mp3",
+      
+          "m_sys_act22side_loop.mp3"
+      ]
+    },
+    {
+      "act23side" : [
+    
+          "m_bat_act23side_01_intro.mp3",
+        
+          "m_bat_act23side_01_loop.mp3",
+      
+          "m_bat_act23side_02_intro.mp3",
+        
+          "m_bat_act23side_02_loop.mp3",
+        
+          "m_bat_ymmons_intro.mp3",
+      
+          "m_bat_ymmons_loop.mp3",
+      
+          "m_sys_act23side_intro.mp3",
+      
+          "m_sys_act23side_loop.mp3"
+      ]
+    },
+    {
+      "act25side" : [
+    
+          "m_avg_decisivebattle_loop.mp3",
+        
+          "m_avg_tremont_intro.mp3",
+      
+          "m_avg_tremont_loop.mp3",
+      
+          "m_bat_act25side_01_intro.mp3",
+        
+          "m_bat_act25side_01_loop.mp3",
+        
+          "m_bat_cstlrs_intro.mp3",
+      
+          "m_bat_cstlrs_loop.mp3",
+      
+          "m_sys_act25side_intro.mp3",
+        
+          "m_sys_act25side_loop.mp3"
+      ]
+    },
+    {
+      "act26side" : [
+    
+          "m_avg_cledub_sad.mp3",
+      
+          "m_bat_act26side_intro.mp3",
+      
+          "m_bat_act26side_loop.mp3",
+      
+          "m_bat_cledub_intro.mp3",
+      
+          "m_bat_cledub_loop.mp3",
+      
+          "m_sys_act26side_intro.mp3",
+        
+          "m_sys_act26side_loop.mp3"
+      ]
+    },
+    {
+      "act27d0d0" : [
+    
+          "m_avg_shatterpoint_intro.mp3",
+        
+          "m_avg_shatterpoint_loop.mp3",
+        
+          "m_bat_manfri_01_intro.mp3",
+        
+          "m_bat_manfri_01_loop.mp3",
+      
+          "m_bat_shatterpoint_01_intro.mp3",
+        
+          "m_bat_shatterpoint_01_loop.mp3",
+      
+          "m_bat_shatterpoint_02_intro.mp3",
+        
+          "m_bat_shatterpoint_02_loop.mp3"
+      ]
+    },
+    {
+      "act27side" : [
+    
+          "m_avg_eyjafjalladream.mp3",
+        
+          "m_avg_siestacity.mp3"
+      ]
+    },
+    {
+      "act28side" : [
+    
+          "m_avg_saferoom_loop.mp3",
+      
+          "m_avg_wasteland_loop.mp3"
+      ]
+    },
+    {
+      "act29side" : [
+    
+          "m_act29side_bat2_loop.mp3",
+      
+          "m_act29side_sys_intro.mp3",
+      
+          "m_act29side_sys_loop.mp3",
+      
+          "m_avg_arturiaperforming_loop.mp3",
+        
+          "m_avg_goldenrulesymphony_intro.mp3",
+        
+          "m_avg_goldenrulesymphony_loop.mp3",
+      
+          "m_avg_higherdimensionalspaces_loop.mp3",
+        
+          "m_avg_thedeathofwitchking_cello_intro.mp3",
+        
+          "m_avg_thedeathofwitchking_cello_loop.mp3",
+        
+          "m_avg_thedeathofwitchking_piano_loop.mp3"
+      ]
+    },
+    {
+      "act31side" : [
+    
+          "m_act31side_bat1_loop.mp3",
+      
+          "m_act31side_bat2_intro.mp3",
+      
+          "m_act31side_bat2_loop.mp3",
+        
+          "m_act31side_sys_intro.mp3",
+        
+          "m_act31side_sys_loop.mp3",
+        
+          "m_bat_nanzhi_loop.mp3"
+      ]
+    },
+    {
+      "act32d3d0" : [
+    
+          "m_bat_returntomist_01_loop.mp3",
+        
+          "m_bat_returntomist_02_loop.mp3",
+        
+          "m_bat_stmkgt_02_intro.mp3",
+        
+          "m_bat_stmkgt_02_loop.mp3"
+      ]
+    },
+    {
+      "act37d0d0" : [
+    
+          "m_bat_act37d0d0_01_loop.mp3",
+        
+          "m_bat_act37d0d0_02_loop.mp3",
+        
+          "m_bat_wdslm_loop.mp3"
+      ]
+    },
+    {
+      "act38side" : [
+    
+          "m_bat_act38side_intro.mp3",
+      
+          "m_bat_act38side_loop.mp3",
+      
+          "m_sys_act38side_intro.mp3",
+      
+          "m_sys_act38side_loop.mp3"
+      ]
+    },
+    {
+      "act39side" : [
+    
+          "m_bat_crzjdg_intro.mp3",
+      
+          "m_bat_crzjdg_loop.mp3"
+      ]
+    },
+    {
+      "act40side" : [
+    
+          "m_bat1_act40side_loop.mp3",
+      
+          "m_bat_wang.mp3",
+      
+          "m_sys_act40side_loop.mp3"
+      ]
+    },
+    {
+      "act42side" : [
+    
+          "m_act42side_bat2_loop.mp3",
+        
+          "m_act42side_sys_loop.mp3",
+        
+          "m_bat_pope_p1_loop.mp3",
+      
+          "m_bat_pope_p2_loop.mp3"
+      ]
+    },
+    {
+      "act43d0" : [
+    
+          "m_bat_act43d0_1_intro.mp3",
+      
+          "m_bat_act43d0_1_loop.mp3",
+      
+          "m_bat_act43d0_2_intro.mp3",
+      
+          "m_bat_act43d0_2_loop.mp3",
+      
+          "m_bat_sanguinarch_intro.mp3",
+        
+          "m_bat_sanguinarch_loop.mp3"
+      ]
+    },
+    {
+      "act43side" : [
+    
+          "m_sys_act43side_loop.mp3"
+      ]
+    },
+    {
+      "act49side" : [
+    
+          "m_bat1_act49side_intro.mp3",
+      
+          "m_bat1_act49side_loop.mp3",
+      
+          "m_bat2_act49side_intro.mp3",
+        
+          "m_bat2_act49side_loop.mp3",
+      
+          "m_bat_sui_intro.mp3",
+      
+          "m_bat_sui_loop.mp3",
+      
+          "m_sys_act49side_loop.mp3"
+      ]
+    },
+    {
+      "act5d0" : [
+    
+          "m_avg_longmenbar_intro.mp3",
+      
+          "m_avg_longmenbar_loop.mp3",
+      
+          "m_avg_longmendarkalley_intro.mp3",
+        
+          "m_avg_longmendarkalley_loop.mp3",
+      
+          "m_avg_longmenmarketplace_intro.mp3",
+        
+          "m_avg_longmenmarketplace_loop.mp3",
+        
+          "m_avg_speedoflight_intro.mp3",
+        
+          "m_avg_speedoflight_loop.mp3",
+        
+          "m_avg_storyendjp_intro.mp3",
+        
+          "m_avg_storyendjp_loop.mp3",
+      
+          "m_bat_chasing_intro.mp3",
+      
+          "m_bat_chasing_loop.mp3",
+      
+          "m_bat_gorgeousdebut_intro.mp3",
+      
+          "m_bat_gorgeousdebut_loop.mp3",
+        
+          "m_bat_kingmouse_intro.mp3",
+      
+          "m_bat_kingmouse_loop.mp3",
+      
+          "m_sys_penguinlogistics_intro.mp3",
+        
+          "m_sys_penguinlogistics_loop.mp3"
+      ]
+    },
+    {
+      "act9d0d0" : [
+    
+          "m_avg_batmeeting_intro.mp3",
+      
+          "m_avg_batmeeting_loop.mp3",
+      
+          "m_avg_dignified_intro.mp3",
+      
+          "m_avg_dignified_loop.mp3",
+      
+          "m_avg_distressed_intro.mp3",
+      
+          "m_avg_distressed_loop.mp3",
+        
+          "m_avg_drift_intro.mp3",
+      
+          "m_avg_drift_loop.mp3",
+      
+          "m_avg_exciting02_intro.mp3",
+      
+          "m_avg_exciting02_loop.mp3",
+      
+          "m_avg_frontline_intro.mp3",
+        
+          "m_avg_frontline_loop.mp3",
+        
+          "m_avg_holiday_intro.mp3",
+        
+          "m_avg_holiday_loop.mp3",
+        
+          "m_avg_nervous_intro.mp3",
+        
+          "m_avg_nervous_loop.mp3",
+      
+          "m_avg_plot_intro.mp3",
+      
+          "m_avg_plot_loop.mp3",
+      
+          "m_avg_relax_intro.mp3",
+      
+          "m_avg_relax_loop.mp3",
+      
+          "m_avg_sjoyasorrow_intro.mp3",
+        
+          "m_avg_sjoyasorrow_loop.mp3",
+        
+          "m_avg_w_intro.mp3",
+      
+          "m_avg_w_loop.mp3",
+      
+          "m_avg_warm_intro.mp3",
+      
+          "m_avg_warm_loop.mp3",
+      
+          "m_bat_exterminate_intro.mp3",
+        
+          "m_bat_exterminate_loop.mp3",
+        
+          "m_bat_katzdale_intro.mp3",
+      
+          "m_bat_katzdale_loop.mp3",
+      
+          "m_bat_sacrifice_intro.mp3",
+      
+          "m_bat_sacrifice_loop.mp3",
+      
+          "m_bat_stranger_intro.mp3",
+      
+          "m_bat_stranger_loop.mp3",
+        
+          "m_sys_w_intro.mp3",
+      
+          "m_sys_w_loop.mp3"
+      ]
+    },
+    {
+      "act9d2d0" : [
+    
+          "m_avg_patriot_intro.mp3",
+      
+          "m_avg_patriot_loop.mp3",
+      
+          "m_bat_chernobog_intro.mp3",
+      
+          "m_bat_chernobog_loop.mp3",
+      
+          "m_bat_kaltsitteam_intro.mp3",
+      
+          "m_bat_kaltsitteam_loop.mp3",
+        
+          "m_bat_patriot_intro.mp3",
+        
+          "m_bat_patriot_loop.mp3"
+      ]
+    },
+    {
+      "act9d2d1" : [
+    
+          "m_bat_patriotextra_intro.mp3",
+        
+          "m_bat_patriotextra_loop.mp3"
+      ]
+    },
+    {
+      "avemujica" : [
+    
+          "m_sys3_avemujica_loop.mp3"
+      ]
+    },
+    {
+      "avg" : [
+    
+          "m_avg_aegir_loop.mp3",
+      
+          "m_avg_avalanche_loop.mp3",
+      
+          "m_avg_banshee_loop.mp3",
+      
+          "m_avg_calm_loop.mp3",
+      
+          "m_avg_chasing_loop.mp3",
+      
+          "m_avg_chill_loop.mp3",
+      
+          "m_avg_cityvibe_loop.mp3",
+      
+          "m_avg_cityvibefull_loop.mp3",
+      
+          "m_avg_comedy_loop.mp3",
+      
+          "m_avg_creepy_loop.mp3",
+      
+          "m_avg_dailylifeofbaizao_loop.mp3",
+      
+          "m_avg_dailylifeofsargon_loop.mp3",
+        
+          "m_avg_darkduel_loop.mp3",
+      
+          "m_avg_darkness_03_loop.mp3",
+      
+          "m_avg_death_intro.mp3",
+      
+          "m_avg_death_loop.mp3",
+      
+          "m_avg_desolate_loop.mp3",
+      
+          "m_avg_destiny_loop.mp3",
+      
+          "m_avg_dreamrite_intro.mp3",
+      
+          "m_avg_dreamrite_loop.mp3",
+      
+          "m_avg_elegance_loop.mp3",
+      
+          "m_avg_endingfareware_intro.mp3",
+        
+          "m_avg_endingfareware_loop.mp3",
+        
+          "m_avg_epic_loop.mp3",
+      
+          "m_avg_faceoff_loop.mp3",
+      
+          "m_avg_fightback_intro.mp3",
+      
+          "m_avg_fightback_loop.mp3",
+        
+          "m_avg_flame_intro.mp3",
+        
+          "m_avg_flame_loop.mp3",
+      
+          "m_avg_formal_loop.mp3",
+      
+          "m_avg_ghosthunter_intro.mp3",
+      
+          "m_avg_ghosthunter_loop.mp3",
+      
+          "m_avg_grandpilgrimage_intro.mp3",
+      
+          "m_avg_grandpilgrimage_loop.mp3",
+        
+          "m_avg_kjerag_loop.mp3",
+      
+          "m_avg_kjeragchanting_loop.mp3",
+        
+          "m_avg_ladderduel_loop.mp3",
+        
+          "m_avg_mechdeath_loop.mp3",
+      
+          "m_avg_memory_loop.mp3",
+      
+          "m_avg_minos_folk_loop.mp3",
+      
+          "m_avg_minos_lyresolo_loop.mp3",
+        
+          "m_avg_minos_wardance_intro.mp3",
+        
+          "m_avg_minos_wardance_loop.mp3",
+        
+          "m_avg_monastery_nomal.mp3",
+        
+          "m_avg_nasty_intro.mp3",
+      
+          "m_avg_nasty_loop.mp3",
+      
+          "m_avg_normal_loop.mp3",
+      
+          "m_avg_opening_intro.mp3",
+      
+          "m_avg_opening_loop.mp3",
+      
+          "m_avg_ouat_loop.mp3",
+      
+          "m_avg_pirate_loop.mp3",
+      
+          "m_avg_playful_loop.mp3",
+      
+          "m_avg_prts_intro.mp3",
+      
+          "m_avg_prts_loop.mp3",
+      
+          "m_avg_reawakening_loop.mp3",
+      
+          "m_avg_reawakeningpiano_loop.mp3",
+        
+          "m_avg_riversnow_loop.mp3",
+      
+          "m_avg_suifamilybond_intro.mp3",
+        
+          "m_avg_suifamilybond_loop.mp3",
+      
+          "m_avg_suilaststrick_loop.mp3",
+        
+          "m_avg_tara_loop.mp3",
+      
+          "m_avg_ursusdaily_loop.mp3",
+      
+          "m_avg_ursusspecial_loop.mp3",
+      
+          "m_avg_victorianormal_loop.mp3",
+        
+          "m_avg_wheel_loop.mp3",
+      
+          "m_avg_yumennormal_loop.mp3"
+      ]
+    },
+    {
+      "beta1_180603" : [
+    
+          "m_bat_epic_intro.mp3",
+      
+          "m_bat_epic_loop.mp3",
+      
+          "m_bat_failed_intro.mp3",
+      
+          "m_bat_failed_intro_voice.mp3",
+        
+          "m_bat_failed_loop.mp3",
+      
+          "m_bat_indust_intro.mp3",
+      
+          "m_bat_indust_loop.mp3",
+      
+          "m_bat_normal01_intro.mp3",
+      
+          "m_bat_normal01_loop.mp3",
+      
+          "m_bat_normal02_intro.mp3",
+      
+          "m_bat_normal02_loop.mp3",
+      
+          "m_bat_victory_intro.mp3",
+      
+          "m_bat_victory_loop.mp3",
+      
+          "m_dia_babel_intro.mp3",
+      
+          "m_dia_babel_loop.mp3",
+      
+          "m_dia_darkness01_intro.mp3",
+        
+          "m_dia_darkness01_loop.mp3",
+      
+          "m_dia_darkness02_intro.mp3",
+        
+          "m_dia_darkness02_loop.mp3"
+        ,
+          "m_dia_mist_intro.mp3"
+        ,
+          "m_dia_mist_loop.mp3",
+      
+          "m_sys_loading_intro.mp3",
+        
+          "m_sys_loading_loop.mp3",
+          "m_sys_void_intro.mp3",
+      
+          "m_sys_void_loop.mp3"
+      ]
+    },
+    {
+      "beta2_180603" : [
+    
+          "m_bat_escapebattle_intro.mp3"
+        ,
+          "m_bat_escapebattle_loop.mp3"
+        ,
+          "m_bat_frostnova_intro.mp3"
+        ,
+          "m_bat_frostnova_loop.mp3"
+        ,
+          "m_bat_normal03_intro.mp3"
+        ,
+          "m_bat_normal03_loop.mp3",
+        
+          "m_bat_normalbattle_intro.mp3"
+        ,
+          "m_bat_normalbattle_loop.mp3"
+        ,
+          "m_bat_qiecheng_intro.mp3",
+      
+          "m_bat_qiecheng_loop.mp3",
+      
+          "m_bat_qiechengimp_intro.mp3",
+      
+          "m_bat_qiechengimp_loop.mp3",
+        
+          "m_dia_calamity_intro.mp3",
+        
+          "m_dia_calamity_loop.mp3",
+        
+          "m_dia_escape_intro.mp3",
+      
+          "m_dia_escape_loop.mp3",
+      
+          "m_dia_nightoflongmen_intro.mp3"
+        ,
+          "m_dia_nightoflongmen_loop.mp3"
+        ,
+          "m_sys_tech_intro.mp3"
+        ,
+          "m_sys_tech_loop.mp3"
+      ]
+    },
+    {
+      "beta3_181101" : [
+    
+          "m_bat_game02_intro.mp3",
+      
+          "m_bat_game02_loop.mp3",
+      
+          "m_bat_longmenbat_intro.mp3",
+      
+          "m_bat_longmenbat_loop.mp3",
+      
+          "m_bat_longmenbatimp_intro.mp3",
+      
+          "m_bat_longmenbatimp_loop.mp3",
+        
+          "m_bat_longmenoffice_intro.mp3"
+        ,
+          "m_bat_longmenoffice_loop.mp3"
+        ,
+          "m_dia_newhope01_intro.mp3"
+        ,
+          "m_dia_newhope01_loop.mp3",
+      
+          "m_dia_newhope02_intro.mp3"
+        ,
+          "m_dia_newhope02_loop.mp3"
+        ,
+          "m_dia_street_intro.mp3",
+        
+          "m_dia_street_loop.mp3",
+      
+          "m_sys_lab_intro.mp3",
+      
+          "m_sys_lab_loop.mp3",
+      
+          "m_sys_science_intro.mp3",
+      
+          "m_sys_science_loop.mp3"
+      ]
+    },
+    {
+      "obt" : [
+    
+          "empty.mp3",
+      
+          "m_bat_fesedm_intro.mp3",
+      
+          "m_bat_fesedm_loop.mp3",
+      
+          "m_bat_fesmetal_intro.mp3",
+        
+          "m_bat_fesmetal_loop.mp3"
+        ,
+          "m_bat_volcano_intro.mp3"
+        ,
+          "m_bat_volcano_loop.mp3"
+        ,
+          "m_sys_alive_intro.mp3",
+        
+          "m_sys_alive_loop.mp3",
+      
+          "m_sys_ddd_intro.mp3",
+      
+          "m_sys_ddd_loop.mp3",
+      
+          "m_sys_emperor_intro.mp3",
+      
+          "m_sys_emperor_loop.mp3",
+      
+          "m_sys_fesready_intro.mp3",
+        
+          "m_sys_fesready_loop.mp3",
+        
+          "m_sys_shop_intro.mp3",
+      
+          "m_sys_shop_loop.mp3"
+      ]
+    },
+    {
+      "rogue_1" : [
+    
+          "m_avg_rglk1secretevent_loop.mp3"
+        ,
+          "m_bat_cswrtr_intro.mp3"
+        ,
+          "m_bat_cswrtr_loop.mp3",
+      
+          "m_bat_rglk1csghost_intro.mp3",
+        
+          "m_bat_rglk1csghost_loop.mp3",
+        
+          "m_bat_rglk1normal1_intro.mp3"
+        ,
+          "m_bat_rglk1normal1_loop.mp3",
+        
+          "m_bat_rglk1normal2_intro.mp3"
+        ,
+          "m_bat_rglk1normal2_loop.mp3",
+      
+          "m_bat_rglk1phantomcastle_intro.mp3"
+        ,
+          "m_bat_rglk1phantomcastle_loop.mp3"
+        ,
+          "m_sys_rglk1distortmap_intro.mp3",
+        
+          "m_sys_rglk1distortmap_loop.mp3",
+      
+          "m_sys_rglk1phantomcastle_intro.mp3",
+        
+          "m_sys_rglk1phantomcastle_loop.mp3"
+        ,
+          "m_sys_rglk1secretstage_loop.mp3"
+      ]
+    },
+    {
+      "rogue_5" : [
+    
+          "m_bat_rglk5dlc1p1_intro.mp3",
+        
+          "m_bat_rglk5dlc1p1_loop.mp3",
+      
+          "m_bat_rglk5dlc1p2_intro.mp3",
+        
+          "m_bat_rglk5dlc1p2_loop.mp3",
+        
+          "m_bat_rouge5_1_intro.mp3",
+        
+          "m_bat_rouge5_1_loop.mp3",
+        
+          "m_bat_rouge5_2_intro.mp3",
+        
+          "m_bat_rouge5_2_loop.mp3",
+        
+          "m_bat_rouge5_sv1_intro.mp3",
+        
+          "m_bat_rouge5_sv1_loop.mp3",
+      
+          "m_bat_rouge5boss1_intro.mp3",
+        
+          "m_bat_rouge5boss1_loop.mp3",
+        
+          "m_bat_rouge5boss2_intro.mp3",
+        
+          "m_bat_rouge5boss2_loop.mp3",
+      
+          "m_bat_rouge5boss3_intro.mp3",
+      
+          "m_bat_rouge5boss3_loop.mp3",
+      
+          "m_bat_rouge5bossdylbhm_intro.mp3",
+      
+          "m_bat_rouge5bossdylbhm_loop.mp3",
+        
+          "m_sys_rouge5_svtheme1_intro.mp3"
+        ,
+          "m_sys_rouge5_svtheme1_loop.mp3"
+        ,
+          "m_sys_rouge5_theme1_loop.mp3"
+        ,
+          "m_sys_rouge5_theme2_intro.mp3"
+        ,
+          "m_sys_rouge5_theme2_loop.mp3"
+        ,
+          "m_sys_rouge5_theme3_loop.mp3"
+      ]
+    },
+    {
+      "static/m_avg" : [
+          
+              "m_avg_exciting01_intro.mp3",
+          
+              "m_avg_exciting01_loop.mp3"     ,
+          
+              "m_avg_frostnovadie_intro.mp3"     ,
+          
+              "m_avg_frostnovadie_loop.mp3"     ,
+          
+              "m_avg_loneliness_intro.mp3"     ,
+          
+              "m_avg_loneliness_loop.mp3"     
+          ]
+        },
+        {
+          "static/m_bat" : [
+          
+              "m_bat_frostnovaevolution_intro.mp3"     ,
+          
+              "m_bat_frostnovaevolution_loop.mp3"     ,
+          
+              "m_bat_frostnovaevolutionhard_intro.mp3"     ,
+          
+              "m_bat_frostnovaevolutionhard_loop.mp3"     ,
+          
+              "m_bat_snowmonster_intro.mp3"     ,
+          
+              "m_bat_snowmonster_loop.mp3"     
+          ]
+        }
+      ]
+

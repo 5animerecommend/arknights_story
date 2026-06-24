@@ -1,0 +1,359 @@
+body{
+ -ms-overflow-style: none;
+  overflow-y: hidden;
+  
+ }
+
+#메인페이지::-webkit-scrollbar {
+  display: none;
+}
+
+
+.nation {
+  width: 75%;
+  height: 75%;
+  cursor: pointer;
+  z-index: -1;
+}
+
+.nation-name {
+  font-size: 0.4em;
+  color: #9e9e9e;
+  font-weight: 900;
+}
+
+
+#nation-select {
+  background: #000000;
+  color: white;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-left-width: 0px;
+  padding: 1%;
+  width: 20%;
+  text-align: center;
+}
+
+#class-banner {
+  margin-left: 2%; 
+  padding-left: 3%; 
+  padding-right: 2%; 
+  width: 50%; 
+  border: 1px solid white; 
+  border-radius: 10px; 
+  float: left;
+  height: 0em;
+  scale: 1, 0;
+  overflow-y: scroll;
+  transition: 1s
+
+}
+
+.nation-box {
+  border: 3px solid #000000;
+  border-radius: 10px;
+}
+
+.banner-name {
+  color: white;
+  font-size: 2em;
+  font-weight: 900;
+
+}
+
+.배너 {
+  transition : height 3s;
+  color: white; 
+  text-align: left;
+  display: none;
+  scale: 1, 0;
+  transition-property: transform, display;
+  transition-duration: 0.25s;
+  transition-behavior: allow-discrete;
+}
+
+.배너제목 {
+  cursor: pointer;
+}
+.디테일 {
+  width:100%; 
+  height: 4%;
+  display: flex;
+  overflow-y: hidden;
+  scale: 1, 0;
+  transition-property: transform, display;
+  transition-duration: 0.25s;
+  transition-behavior: allow-discrete;
+}
+
+.nation-box:focus {
+  scale: 1.13;
+  transition: transform 0.7s
+}
+
+.디테일이미지 {
+  display: flex;
+  width: 50%; 
+  border-right: 1px solid white; 
+  text-align: center; 
+  justify-content: center;
+  height: 13em;
+}
+
+.디테일설명 {
+  width: 50%; 
+  padding-left: 2em; 
+  height: 16em; 
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+}
+
+.디테일줄글 {
+  font-size: 1.5em; 
+  font-weight: 700; 
+  font-family: 'Noto Sans KR', times New Roman;
+}
+
+.디테일작은줄글 {
+  font-size: 0.75em; 
+  font-weight: 700; 
+  font-family: 'Noto Sans KR', times New Roman
+}
+
+.진입하기 {
+  cursor: pointer;
+}
+
+
+#스토리::-webkit-scrollbar {
+  width: 10px;
+}
+#스토리::-webkit-scrollbar-thumb {
+  background-color: #2f3542;
+  border-radius: 10px;
+}
+#스토리::-webkit-scrollbar-track {
+  background-color: grey;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 5px white;
+}
+
+#class-banner::-webkit-scrollbar {
+  width: 10px;
+}
+#class-banner::-webkit-scrollbar-thumb {
+  background-color: #2f3542;
+  border-radius: 10px;
+}
+#class-banner::-webkit-scrollbar-track {
+  background-color: #454545;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 5px white;
+}
+
+#header {
+  width: 95vw;
+  height: 77vh;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 1%;
+
+}
+
+#본문선 {
+  border: 1px solid white;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+#스토리창 {
+  flex:10 0px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+
+  min-height: 0;
+}
+
+#스토리 {
+  flex:1;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#차례 {
+  flex:1 0px;
+  flex-direction: column;
+  display: flex;
+  min-height: 0;
+  -ms-overflow-style: none;
+}
+
+#차례 ::-webkit-scrollbar {
+  display: none;
+}
+
+#차례제목 {
+  background-color: #292929;
+  padding-bottom: 1em;
+  flex:1 0px;
+  flex-direction: column;
+  display: flex;
+  overflow-y: auto;
+  overflow-x: block;
+}
+
+#제목 {
+  flex:0 0 10vh;
+  width: 10vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center
+}
+
+.차례버튼 {
+  border-radius: 5px;
+  background-color: #545454;
+  cursor: pointer;
+}
+
+.버튼 {
+  flex:1 1 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+  border-radius: 5px;
+
+}
+
+.선택지 {
+  flex:1 1 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px;
+  margin: 3px;
+  border-radius: 5px;
+
+}
+
+.선택지버튼 {
+  display: block;
+  width: 50vw;
+  border-radius: 8px;
+  padding: 0.5em;
+  cursor: pointer;
+}
+
+.한줄 {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.캐릭터 {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 1.6%;
+  height: 6vh;
+  background-color: #292929;
+  margin-left: 9%;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 10em;
+  padding: 1em;
+}
+
+.이름칸 {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 7%;
+  background-color: #292929;
+  margin-right: 4%;
+  text-align: left;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+
+.대사칸 {
+  flex:10;
+  margin-left: 1em;
+  padding: 1em;
+  margin-right: 20%;
+  align-items: center;
+  background-color: #292929;
+  border-radius: 1em;
+  display: flex;
+
+}
+
+.이름 {
+  color: #8a8a8a;
+  font-size: 1em;
+}
+
+.대사 {
+  color: #a3a3a3;
+  font-size: 1em
+}
+
+.스티커 {
+  color: #ccaff8;
+  font-size: 1em
+}
+.이미지 {
+  width: 100%;
+  text-align: center;
+  padding-right: 20%;
+  display: block;
+}
+
+.Subtitle {
+  width: 100%;
+  display: block;
+  color: #7d4545;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.컷신 {
+  width: 100%;
+  text-align: center;
+  padding-right: 20%;
+  display: block;
+}
+
+video::-webkit-media-controls-timeline {
+  display: none !important;
+}
+
+/* 현재 진행 시간 */
+video::-webkit-media-controls-current-time-display{
+  display: none !important;
+}
+
+/* 전체 시간 */
+video::-webkit-media-controls-time-remaining-display {
+  display: none !important;
+}
+
+
+.음악시작 {
+  height: 1vh;
+}
+.음악정지 {
+  height: 1vh;
+}

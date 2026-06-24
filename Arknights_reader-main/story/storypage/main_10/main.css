@@ -1,0 +1,161 @@
+body {
+  overflow-y: hidden;
+}
+#스토리::-webkit-scrollbar {
+  width: 10px;
+}
+#스토리::-webkit-scrollbar-thumb {
+  background-color: #2f3542;
+  border-radius: 10px;
+}
+#스토리::-webkit-scrollbar-track {
+  background-color: grey;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 5px white;
+}
+
+#header {
+  width: 95vw;
+  height: 77vh;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 1%;
+
+}
+
+#본문선 {
+  border: 1px solid white;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+#스토리창 {
+  flex:10 0px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+
+  min-height: 0;
+}
+
+#스토리 {
+  flex:1;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#차례 {
+  flex:1 0px;
+  flex-direction: column;
+  display: flex;
+  min-height: 0;
+  -ms-overflow-style: none;
+}
+
+#차례 ::-webkit-scrollbar {
+  display: none;
+}
+
+#차례제목 {
+  background-color: #292929;
+  padding-bottom: 1em;
+  flex:1 0px;
+  flex-direction: column;
+  display: flex;
+  overflow-y: auto;
+  overflow-x: block;
+}
+
+#제목 {
+  flex:0 0 10vh;
+  width: 10vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center
+}
+
+.차례버튼 {
+  border-radius: 5px;
+  background-color: #545454;
+  cursor: pointer;
+}
+
+.버튼 {
+  flex:1 1 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+  border-radius: 5px;
+  
+}
+
+.선택지 {
+  flex:1 1 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px;
+  margin: 3px;
+  border-radius: 5px;
+  
+}
+
+.선택지버튼 {
+  display: block;
+  width: 50vw;
+  border-radius: 8px;
+  padding: 0.5em;
+  cursor: pointer;
+}
+
+.한줄 {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+
+}
+
+.이름칸 {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 15%;
+  background-color: #292929;
+  margin-left: 10%;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.대사칸 {
+  flex:10;
+  margin-left: 1em;
+  padding: 1em;
+  margin-right: 20%;
+  background-color: #292929;
+  border-radius: 1em;
+
+}
+
+.이름 {
+  color: #8a8a8a;
+  font-size: 1em;
+}
+
+.대사 {
+  color: #a3a3a3;
+  font-size: 1em
+}
+
+.이미지 {
+  width: 100%;
+  text-align: center;
+  padding-right: 20%;
+  display: block;
+}
+
