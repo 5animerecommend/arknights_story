@@ -286,7 +286,7 @@ function returnpage() {
   bgm1.pause()
   bgm2.pause()
   document.body.style.backgroundColor = "black";
-  document.getElementById("메인페이지").style.display = 'block';
+  document.getElementById("메인페이지").style.display = 'flex';
   document.getElementById("스토리페이지").style.display = 'none';
   document.getElementById("챕터제목").textContent = '';
   document.getElementById("본문선").style.display = "none"
