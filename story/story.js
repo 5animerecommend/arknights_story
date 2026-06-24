@@ -147,6 +147,7 @@ function startbgm(jsonObj, bgm) {
 
 //배너 한 칸
 function bannershow(jsonObj) {
+  console.log("aaa");
   var bgm1 = document.getElementById("music");
   var bgm2 = document.getElementById("musicloop");
   //var bgm1 = document.createElement("audio");
