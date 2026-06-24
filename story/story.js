@@ -176,7 +176,7 @@ function bannershow(jsonObj) {
     const 이미지 = document.createElement('img');
     이미지.src = 'story_banner/' + jsonObj[i].코드 + '.jpg';
     이미지.alt = jsonObj[i].코드;
-    이미지.style.height = '40vh';
+    이미지.style.height = '20vh';
     이미지.style.display = "block";
     디테일이미지.appendChild(br)
     디테일이미지.appendChild(이미지);
