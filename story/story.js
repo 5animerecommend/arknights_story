@@ -176,7 +176,7 @@ function bannershow(jsonObj) {
     const 이미지 = document.createElement('img');
     이미지.src = 'story_banner/' + jsonObj[i].코드 + '.jpg';
     이미지.alt = jsonObj[i].코드;
-    이미지.style.height = '15vh';
+    이미지.style.height = '100vh';
     이미지.style.display = "block";
     디테일이미지.appendChild(br)
     디테일이미지.appendChild(이미지);
@@ -364,7 +364,7 @@ function showstory(jsonObj, num, path) {
         continue;
       }
       img.src = image_fexli + jsonObj["storyList"][i]["attributes"]["image"] + ".png";
-      img.style.width = "50%";
+      img.style.width = "50vw";
       imgdiv.append(img, blank);
       //document.body.append(imgdiv, blank);
       document.getElementById("스토리").append(imgdiv);
@@ -378,7 +378,7 @@ function showstory(jsonObj, num, path) {
       }
       img.src =
         image_fexli + "bg/" + jsonObj["storyList"][i]["attributes"]["image"] + ".png";
-      img.style.width = "30%";
+      img.style.width = "50%";
       imgdiv.append(img, blank);
       //document.body.append(imgdiv, blank);
       document.getElementById("스토리").append(imgdiv);

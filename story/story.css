@@ -16,6 +16,9 @@ body{
   
  }
 
+#메인페이지 {
+  display:flex;
+}
 #메인페이지::-webkit-scrollbar {
   display: none;
 }
@@ -52,13 +55,14 @@ body{
   padding: 1%;
   max-width: 20%;
   text-align: center;
+  flex: 0 0 20%;
 }
 
 #class-banner {
   margin-left: 2%; 
   padding-left: 3%; 
   padding-right: 2%; 
-  width: 50%; 
+  flex: 1;
   border: 1px solid white; 
   border-radius: 10px; 
   float: left;
@@ -94,10 +98,11 @@ body{
 
 .배너제목 {
   cursor: pointer;
+  padding: 15px;
 }
 .디테일 {
   width:100%; 
-  height: 4%;
+  height: 10%;
   display: flex;
   overflow-y: hidden;
   scale: 1, 0;
@@ -117,26 +122,26 @@ body{
   border-right: 1px solid white; 
   text-align: center; 
   justify-content: center;
-  height: 13em;
+  height: 13rem;
 }
 
 .디테일설명 {
   width: 50%; 
-  padding-left: 2em; 
-  height: 16em; 
+  padding-left: 2rem; 
+  height: 16rem; 
   display: flex; 
   flex-direction: column;
   justify-content: center;
 }
 
 .디테일줄글 {
-  font-size: 1.5em; 
+  font-size: 1.5rem; 
   font-weight: 700; 
   font-family: 'Noto Sans KR', times New Roman;
 }
 
 .디테일작은줄글 {
-  font-size: 0.75em; 
+  font-size: 0.75rem; 
   font-weight: 700; 
   font-family: 'Noto Sans KR', times New Roman
 }
