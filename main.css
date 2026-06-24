@@ -1,3 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  display: table;
+  height: 100vh;
+  text-align: center;
+  width: 100vw;
+}
 
 .indexbox {
   background: #000000;
