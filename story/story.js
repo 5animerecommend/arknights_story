@@ -188,12 +188,12 @@ function bannershow(jsonObj) {
     줄글.textContent = jsonObj[i].글;
     const 진입div = document.createElement('div');    
     진입div.appendChild(br);
-    진입div.insertAdjacentText('beforeend','진입하기');
+    진입div.insertAdjacentText('beforeend','진입');
     진입div.classList.add('진입하기')
     //진입div.insertAdjacentHTML('beforeend', '<button class="진입하기" onclick="location.href=\'storypage/' + jsonObj[i].코드 + '/' + jsonObj[i].코드 +'.html\'">진입하기</button>');
     const 진입button = document.createElement('button');
     진입button.classList.add('진입하기');
-    진입button.textContent = '진입하기';
+    진입button.textContent = '진입';
     //const clickfunc = function() {storypage(jsonObj[i].코드)};
     //진입button.addEventListener('click', ()=>{storypage(jsonObj[i].코드)});
     진입div.onclick = storypage.bind(null, jsonObj[i]);
