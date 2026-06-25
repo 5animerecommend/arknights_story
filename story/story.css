@@ -5,6 +5,42 @@
   user-select: none;
 }
 
+.invisible {
+  display: none !important;
+}
+
+#설정창 {
+  position:absolute;
+  transform: translate(-50%,-50%);
+  z-index: 5;
+  background-color: rgb(200,200,200);
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  top: 50%;
+  left: 50%;
+  padding: 3vw;
+  width: 30vw;
+  height: 30vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.설정항목 {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.설정내용 {
+  text-align: left;
+  height: 1.2rem;
+}
+
+.설정내용 input {
+  height: 1.2rem;
+}
+
+
 html {
   height: 100dvh;
   width: 100vw;

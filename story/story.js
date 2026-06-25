@@ -53,6 +53,24 @@ var nowbgm = [];
 var bgmlist = [];
 var nowplay;
 const bgm = ["reawakeningpiano","reawakeningpiano"]
+
+//설정창 사용
+const 상태창버튼 = document.querySelector('#설정');
+const 상태창 = document.querySelector('#설정창');
+
+상태창버튼.addEventListener('click', (e) => {
+    e.stopPropagation();
+    상태창.classList.remove('invisible');
+});
+
+상태창.addEventListener('click', (e) => {
+    e.stopPropagation();
+});
+
+document.addEventListener('click', () => {
+    상태창.classList.add('invisible');
+});
+
 request("resource/bgmsource", 5, bgm)
 
 //request("resource/bgmsource", 5, bgm)
