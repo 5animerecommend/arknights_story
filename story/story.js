@@ -399,7 +399,7 @@ function showstory(jsonObj, num, path) {
       }
       img.src =
         image_fexli + "bg/" + jsonObj["storyList"][i]["attributes"]["image"] + ".png";
-      img.style.width = "50%";
+      img.style.width = "40vw";
       imgdiv.append(img, blank);
       //document.body.append(imgdiv, blank);
       document.getElementById("스토리").append(imgdiv);
@@ -501,7 +501,8 @@ function showstory(jsonObj, num, path) {
       videodiv.id = "line" + i;
       var video = document.createElement("video");
       video.src = "resource/cutscene/"+jsonObj["storyList"][i]["attributes"]["res"];
-      video.style.width = "75%";
+      video.style.width = "80vw";
+      video.style.paddingLeft = "5vw";
       video.controls = true;
       video.volume = 0.5;
       video.addEventListener('play', () => {
