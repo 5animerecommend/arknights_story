@@ -184,12 +184,12 @@ body{
 
 .진입하기 {
   cursor: pointer;
-  background-color: #7d4545;
-  color: white;
-  font-size: 1.5rem;
+  background-color: black;
+  color: rgb(199, 173, 173);
+  font-size: 1.2rem;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
-  border: 0px;
+  border: 2px solid white;
   border-radius: 10px;
   margin-top: 1rem;
   padding: 0.3rem;
